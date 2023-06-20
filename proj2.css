@@ -73,11 +73,3 @@ textarea {
     max-width: 100%;
 }
 
-@media (max-width: 460px) {
-    #whole{
-        min-height: 80vh;
-    }
-    #apply {
-        max-width: 350px;
-    }
-  } ;
